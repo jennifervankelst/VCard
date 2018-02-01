@@ -1,0 +1,30 @@
+
+body {
+    background-color: #FBFCFC;
+    margin-left: 500px;
+    border-style: solid;
+    border-color: #FF335E;
+}
+
+h1 {
+    color: #FF336E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-right: 100px;
+}
+
+h3 {
+    color: #FF335E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h5 {
+    color: #FF336E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.photo-profil {
+    margin-left: 500px;
+}
